@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Learn more about python picking/unpickling](https://www.tutorialspoint.com/python-pickling) and ![Image](src)
+[Learn more about python exception handling](https://realpython.com/python-exceptions/) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
